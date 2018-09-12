@@ -1,0 +1,10 @@
+advanced-custom-fields
+wck-custom-fields-and-custom-post-types-creator
+types
+advanced-custom-fields-taxonomy-field-add-on
+acf-field-date-time-picker
+regenerate-thumbnails
+post-types-order
+wordpress-importer
+wp-migrate-db
+wp-super-cache
